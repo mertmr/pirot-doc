@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Home Page": ["setup", "running"]
+    "Home Page": ["setup", "running", "runningDocker"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
